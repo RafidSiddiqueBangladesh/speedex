@@ -3,7 +3,7 @@
   "name": "Video Speed Controller",
   "version": "1.0",
   "description": "Speed up YouTube and any video up to 4x by clicking",
-  "update_url": "https://raw.githubusercontent.com/YOUR_USERNAME/video-speed-controller/main/update.xml",
+  "update_url": "https://raw.githubusercontent.com/RafidSiddiqueBangladesh/speedex/main/update.xml",
   "permissions": ["scripting", "activeTab"],
   "action": {
     "default_popup": "popup.html",
