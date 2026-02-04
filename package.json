@@ -1,0 +1,17 @@
+{
+  "name": "video-speed-controller",
+  "version": "1.0.0",
+  "description": "Chrome extension to speed up YouTube and any video up to 4x",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/video-speed-controller.git"
+  },
+  "keywords": [
+    "chrome-extension",
+    "video-speed",
+    "youtube",
+    "playback-speed"
+  ]
+}

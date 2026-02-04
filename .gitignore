@@ -1,0 +1,9 @@
+node_modules/
+*.crx
+*.pem
+*.zip
+.DS_Store
+*.log
+*.key
+dist/
+build/
